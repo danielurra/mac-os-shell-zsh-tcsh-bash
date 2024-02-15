@@ -12,11 +12,13 @@ You can use below command to permanently change your shell<br>
 ```bash
 chsh -s /bin/zsh
 ```
-# Process ID
+## Process ID
 You can see the process ID by echoing the special variable "$$"<br>
 ```bash
 echo $$
 ```
 ![process-id](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/35d8a5f7-8f6e-45c7-9d84-04cd74b1352a)<br>
+## Commonly used bash commands
+![commonly-used-commands](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/3ab679d5-414c-4802-85b7-87b245ca6c7a)<br>
 
 
