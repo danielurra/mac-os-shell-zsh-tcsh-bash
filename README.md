@@ -6,5 +6,6 @@ You can see the process ID by echoing the special variable "$$"<br>
 ```bash
 echo $$
 ```
+![process-id](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/35d8a5f7-8f6e-45c7-9d84-04cd74b1352a)<br>
 
 
