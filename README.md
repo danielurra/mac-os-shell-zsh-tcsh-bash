@@ -20,5 +20,8 @@ echo $$
 ![process-id](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/35d8a5f7-8f6e-45c7-9d84-04cd74b1352a)<br>
 ## Commonly used bash commands
 ![commonly-used-commands](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/3ab679d5-414c-4802-85b7-87b245ca6c7a)<br>
+## Redirect standard error to standard output
+![redirect-standard-error](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/88db667b-9731-4171-9558-3feaca46c465)<br>
+
 
 
