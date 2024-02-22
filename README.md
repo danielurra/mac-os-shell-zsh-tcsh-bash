@@ -21,7 +21,7 @@ echo $$
 ## Commonly used bash commands
 ![commonly-used-commands](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/3ab679d5-414c-4802-85b7-87b245ca6c7a)<br>
 ## Redirect standard error to standard output
-![redirect-standard-error](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/88db667b-9731-4171-9558-3feaca46c465)<br>
+![redirect-standard-error-600x223px](https://github.com/danielurra/mac-os-shell-zsh-tcsh-bash/assets/51704179/20989c70-124f-42a6-a2a6-bd7313fd638f)<br>
 
 
 
